@@ -181,4 +181,55 @@ video{
     font-weight: 400;
     font-size: 16px;
 }
-
+/* SUpport */
+.support{
+    margin-top: 148px;
+    background-image: url(../Assignment-1/Image/assets/handshake.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 64px 48px;
+    border-radius: 16px;
+}
+.support-title{
+    font-family: "Azeret Mono", monospace;
+    font-weight:bolder;
+    font-size: 32px;
+    color: #fff;
+}
+.support-description{
+    font-family: "Azeret Mono", monospace;
+    font-weight:400;
+    font-size: 16px;
+    width: 606px;
+    color: #fff;
+    margin: 0px auto;
+    margin-bottom: 24px;
+}
+.support-input{
+    margin-right: 12px;
+    width: 548px;
+    height: 50px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #0D1321;
+    font-family: "Azeret Mono", monospace;
+    font-weight:400;
+    font-size: 16px;
+    border-radius: 10px;
+}
+.submit{
+    width: 120px;
+    height: 62px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    color: #0D1321;
+    font-family: "Azeret Mono", monospace;
+    font-weight:bolder;
+    font-size: 20px;
+    border-radius: 10px;
+}

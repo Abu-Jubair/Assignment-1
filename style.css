@@ -121,4 +121,64 @@ video{
    text-align: center;
    width: 1140px;
 }
+/* Target */
+.target{
+    margin-top: 150px;
+}
+.target-skills{
+    display: flex;
+    gap: 24px;
+}
+.target-description{
+    width: 852px;
+    margin: 0px auto;
+    font-size: 16px;
+    margin-bottom: 48px;
+    font-family: "Azeret Mono", monospace;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.skill-1{
+    padding: 40px;
+    background-color: #fff1f1;
+    border-radius: 15px;
+    box-shadow: 0px 6px 50px 0px  (rgba(0, 0, 0, 0.06));
+}
+.skill-2{
+    padding: 40px;
+    background-color: #ebf0fa;
+    border-radius: 15px;
+}
+.skill-3{
+    padding: 40px;
+    background-color: #fffdee;
+    border-radius: 15px;
+}
+.skill-1 a{
+    color: #0D1321;
+    font-family: "Azeret Mono", monospace;
+    font-weight: 700;
+    font-size: 16px;
+
+}
+.skill-2 a{
+    color: #0D1321;
+    font-family: "Azeret Mono", monospace;
+    font-weight: 700;
+    font-size: 16px;
+
+}
+.skill-3 a{
+    color: #0D1321;
+    font-family: "Azeret Mono", monospace;
+    font-weight: 700;
+    font-size: 16px;
+
+}
+.skill-description{
+    font-family: "Azeret Mono", monospace;
+    font-weight: 400;
+    font-size: 16px;
+}
 

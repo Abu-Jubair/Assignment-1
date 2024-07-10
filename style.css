@@ -62,4 +62,49 @@ header{
     font-size: 20px;
 
 }
+/* Web-Development CSS start */
+.web-developmet{
+    width: 1440px;
+}
+.web-development-partOne {
+    width: 852px;
+    margin: 100px auto 50px ;
+
+}
+.web-development-text{
+    font-family: "Azeret Mono", monospace;
+    font-weight: 400;
+    font-size: 16px;
+}
+.web-development-section-2{
+    padding: 30px;
+    background-color: #fff;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    width: 852px;
+    margin: 0px auto 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.do-coding{
+    width: 400px;
+    font-size: 16px;
+    margin-bottom: 25px;
+    margin-top: 10px;
+    font-family: "Azeret Mono", monospace;
+}
+.web-development-section-2-part1 button {
+background-color: #ffffff;
+padding: 10px 15px;
+border: 1px solid #0D1321;
+
+}
+
+.web-development-section-2-part1 button a {
+    font-family: "Azeret Mono", monospace;
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration: none;
+    color: #0D1321;
+}
 

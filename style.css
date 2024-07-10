@@ -233,3 +233,22 @@ video{
     font-size: 20px;
     border-radius: 10px;
 }
+/* Footer  */
+#footer{
+    margin-top: 80px;
+    padding: 32px 270px;
+    background-color: #edf2fd;
+}
+.footer-contain{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-text{
+    font-family: "Azeret Mono", monospace;
+    font-weight:700;
+    font-size: 20px;
+}
+.image{
+    display: flex;
+    gap: 24px;
+}

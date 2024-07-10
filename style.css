@@ -107,4 +107,18 @@ border: 1px solid #0D1321;
     text-decoration: none;
     color: #0D1321;
 }
+/* inspiration */
+.inspiration-partOne {
+    width: 852px;
+    margin: 50px auto 50px ;
+}
+.inspiration-text{
+    font-family: "Azeret Mono", monospace;
+    font-weight: 400;
+    font-size: 16px;
+}
+video{
+   text-align: center;
+   width: 1140px;
+}
 

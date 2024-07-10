@@ -1,0 +1,65 @@
+
+/* Common CSS */
+
+.text-align{
+    text-align: center;
+}
+
+h2{
+    font-family: "Azeret Mono", monospace;
+    font-weight:bolder;
+    font-size: 32px;
+    text-align: center;
+}
+.web-development-text{
+    width: 852px;
+    margin: 0px auto;
+    font-size: 16px;
+}
+h3{
+    font-family: "Azeret Mono", monospace;
+    font-weight: 700;
+    font-size: 20px;
+
+}
+main{
+    max-width: 1140px;
+    margin: 0px auto;
+}
+
+/* header section start */
+
+header{
+    background: url(../Assignment-1/assets/Hero-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    max-height: 652px;
+    
+}
+.h1{
+    font-family: "Azeret Mono", monospace;
+    font-weight:bolder;
+    font-size:xx-large;
+
+}
+.header-button{
+    font-family: "Azeret Mono", monospace;
+    font-weight:400;
+    font-size: medium;
+    color: #fff;
+    background-color: black;
+    padding: 18px 21px;
+    border-radius: 10px;
+    margin-bottom: 35px;
+    margin-top: 25px;
+}
+.header-button a{
+    color: #fff;
+    text-decoration: none;
+    font-family: "Azeret Mono", monospace;
+    font-weight: 400;
+    font-size: 20px;
+
+}
+

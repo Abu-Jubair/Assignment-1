@@ -30,7 +30,7 @@ main{
 /* header section start */
 
 header{
-    background: url(../Assignment-1/assets/Hero-bg.png);
+    background: url(.../Image/Hero-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -184,7 +184,7 @@ video{
 /* SUpport */
 .support{
     margin-top: 148px;
-    background-image: url(../Assignment-1/Image/assets/handshake.jpg);
+    background-image: url("./Image/handshake.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
